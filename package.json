@@ -1,0 +1,15 @@
+{
+  "name": "cypress-task",
+  "version": "1.0.0",
+  "description": "This is task assignment given by Aeternity",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pramod Kokadwar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.2.0"
+  }
+}
