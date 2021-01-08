@@ -42,7 +42,7 @@ npm install
 
 ## start the local webserver
 npm start
-The npm start script will spawn a webserver on port 8080  
+The npm start script on port 8080  
 
 You can verify this by opening your browser and navigating to: http://localhost:8080
 
